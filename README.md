@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-2-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
+<img src="https://img.shields.io/badge/Python-3-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
 <a href="http://www.blackhat.com/eu-17/arsenal/schedule/#wipi-hunter---wifi-pineapple-activities-detection-9091"><img src="https://rawgit.com/toolswatch/badges/master/arsenal/europe/2017.svg"></a>
 <a href="https://www.blackhat.com/asia-18/arsenal/schedule/index.html#wipi-hunter---detects-illegal-wireless-network-activities-9854"><img src="https://rawgit.com/toolswatch/badges/master/arsenal/asia/2018.svg"></a>
 <a href="https://defcon.org/html/defcon-26/dc-26-demolabs.html#WiPi-Hunter"><img src="https://hackwith.github.io/badges/defcon/26/demolabs.svg"></a>
@@ -53,15 +53,15 @@ The goal of this project is to find out the fake access points opened by the WiF
 * **Hardware:** TP LINK TL-WN722N
 * **Modules:** scapy, time, termcolor, argparse, commands, netifaces, logging
 
-#### Kali Linux:
+#### Parrot OS or Kali Linux:
 
 Download pisavar:
 
-`git clone https://github.com/WiPi-Hunter/PiSavar.git`
+`git clone https://github.com/xcod3/PiSavar.git`
 
 Install Python librarie(s):
 
-`pip install termcolor`
+`pip3 install termcolor`
 
 It's done!
 
@@ -83,7 +83,7 @@ Run:
 
 ```python
 cd PiSavar
-python pisavar.py -h
+python3 pisavar.py -h
 ```
 
 ### Screenshots
