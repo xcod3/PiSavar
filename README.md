@@ -94,7 +94,8 @@ python3 pisavar.py -h
 
 ### Demo Video
 
-+ new: https://www.youtube.com/watch?v=zJZkPz9ZPMk
++ new: update: https://youtu.be/82t14LtWbWE
++ old: https://www.youtube.com/watch?v=zJZkPz9ZPMk
 + old: https://youtu.be/P7mfh37NZc0
 
 ### Authors
